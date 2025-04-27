@@ -1,0 +1,3 @@
+# set these variables to use the Arize APIs
+ARIZE_SPACE_ID=""
+ARIZE_API_KEY=""
