@@ -1,3 +1,7 @@
 # set these variables to use the Arize APIs
 ARIZE_SPACE_ID=""
 ARIZE_API_KEY=""
+ARIZE_DEVELOPER_KEY=""
+
+# Provide an OpenAI key for LLM as a judge
+OPENAI_API_KEY=""
