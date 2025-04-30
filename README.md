@@ -1,6 +1,6 @@
 # Build Accurate AI with Langflow & Arize
 
-This repo has code, data, and flows for Langflow for the livestream [https://www.datastax.com/events/build-more-accurate-ai-apps].
+This repo has code, data, and flows for Langflow for the livestream https://www.datastax.com/events/build-more-accurate-ai-apps.
 
 In this livestream and code you'll
 
